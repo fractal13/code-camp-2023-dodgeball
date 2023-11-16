@@ -18,7 +18,7 @@ every time step in the game.  It doesn't currently have
 any collision detection. The logical place to do the detection
 is after the player and ball have moved.
 
-The way to check for collision is to as the player if it collides
+The way to check for collision is to ask the player if it collides
 with the ball, and ask the ball if it collides with the player.
 If either of these are true, then the game is over.
 
