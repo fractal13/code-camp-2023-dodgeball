@@ -23,6 +23,17 @@ see a very simple game with objects trying to hit
 the player object.  The player object can be
 moved on the screen using the arrow keys.
 
+File List
+---------
+
+- [`main.py`](../src/main.py) This file controls the game. This is the one to run.
+- [`config.py`](../src/config.py) Edit this file to change some basic game parameters.
+- [`data.py`](../src/data.py) The `DodgeballData` class is contained here. The `evolve` method is responsible for advancing the game each frame.
+- [`display.py`](../src/display.py) The `DodgeballDisplay` class is contained here. The `draw` method is responsible for making the game data appear on the screen each frame.
+- [`ball.py`](../src/ball.py) The `DodgeballBall` class is contained here.
+- [`player.py`](../src/player.py) The `DodgeballPlayer` class is contained here.
+- [`game_mouse.py`](../src/game_mouse.py) Most programmers should leave this file alone. It makes some `pygame` functionality easily available.
+
 
 Challenges
 ----------
