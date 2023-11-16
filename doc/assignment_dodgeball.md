@@ -29,36 +29,36 @@ Challenges
 
 - Modify the game so that the player dies if it is
   hit by one of the objects.
-  [hint](assignment_dodgeball_collision.php)
+  [hint](assignment_dodgeball_collision.md)
 - Modify the game to keep track of the number of objects
   that miss the player and go off screen.  Use this
   as the score.  Show the player's score.
 - Modify the speed that the player moves.
-  [hint](assignment_dodgeball_player_speed.php)
+  [hint](assignment_dodgeball_player_speed.md)
 - Modify the speed that the objects move.  See the player speed
   hint for ideas.
 - Modify the size of the player.
-  [hint](assignment_dodgeball_size.php)
+  [hint](assignment_dodgeball_size.md)
 - Modify the size of the objects.
-  [hint](assignment_dodgeball_size.php)
+  [hint](assignment_dodgeball_size.md)
 - Modify the size of the playing field.
-  [hint](assignment_dodgeball_field_size.php)
+  [hint](assignment_dodgeball_field_size.md)
 - Change the colors of objects to represent a theme.
-  [hint](assignment_dodgeball_colors.php)
+  [hint](assignment_dodgeball_colors.md)
 - Change the objects and players to be images instead
   of colored shapes to represent a theme.  Be sure that
   the size of the images matches the collision size of
   the objects they represent.
-  [hint](assignment_dodgeball_images.php)
+  [hint](assignment_dodgeball_images.md)
 - Change the control keys to something that makes sense
   for you.
-  [hint](assignment_dodgeball_control_keys.php)
+  [hint](assignment_dodgeball_control_keys.md)
 - Add diagonal travel keys.  See the control key hint.
 - Modify the game so that objects can come from the
   other sides of the board.
-  [hint](assignment_dodgeball_side_balls.php)
+  [hint](assignment_dodgeball_side_balls.md)
 - Modify the game to have multiple balls.
-  [hint](assignment_dodgeball_multiple_balls.php)
+  [hint](assignment_dodgeball_multiple_balls.md)
 - Modify the game so the number of balls increases
   over time.
 - Modify the game so the speed of balls increases
